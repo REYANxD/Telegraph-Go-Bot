@@ -155,7 +155,7 @@ var mainButtons = [][]gotgbot.InlineKeyboardButton{
 	},
 	{
 		{Text: "About 🤖", CallbackData: "about"},
-		{Text: "📨 Support", url: "https://t.me/AwesomeSupport"},
+		{Text: "📨 Support", Url: "https://t.me/AwesomeSupport"},
 	},
 	{
 		{Text: "♥ More Amazing bots ♥", Url: "https://t.me/LaylaBots"},
