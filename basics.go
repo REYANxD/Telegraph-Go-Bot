@@ -73,7 +73,7 @@ func html(b *gotgbot.Bot, ctx *ext.Context) error {
 
 // ---------------------------------------------- //
 
-var guideLink = "https://telegra.ph/Telegraph-Bot-Usage-Guide-Stark-Bots-02-26"
+var guideLink = "https://telegra.ph/TelegraphBot-03-02"
 
 var htmlTut = "https://geekyweb.tk/docs/html"
 
@@ -114,19 +114,20 @@ Still here? It's not optional. Go read it.
 `, guideLink)
 
 var aboutMessage = fmt.Sprintf(`
-A telegraph bot by @StarkBots
+A telegraph bot by @VasuXD
 
 <b>Language</b> - <a href="https://go.dev">Golang</a>
 
-<b>Telegraph Library</b> - https://github.com/StarkBotsIndustries/telegraph
-
-<b>Source Code</b> - <a href="https://github.com/StarkBotsIndustries/Telegraph-Go-Bot">GitHub Repository</a>
-
 <b>Usage Guide</b> - %v
 
+<b>Source Code</b> - <a href="https://github.com/VasuXD/Telegraph-Go-Bot">GitHub Repository</a>
+
+<b> Special Thanks & Credit ©
+
+<b>Telegraph Library</b> - <a href="https://github.com/StarkBotsIndustries/telegraph">go telegraph</a>
 <b>Telegram Library</b> - <a href="https://github.com/PaulSonOfLars/gotgbot">gotgbot</a>
 
-Developed with ❤️ by @StarkProgrammer
+Developed with ❤️ by @VasuXD
 `, guideLink)
 
 var htmlTutMessage = `
@@ -145,19 +146,19 @@ I will ask you for some HTML Content when you want to create or edit a page. You
    2. Reply to an HTML document
 `
 var homeButtons = [][]gotgbot.InlineKeyboardButton{{
-	{Text: "🏠 Return Home 🏠", CallbackData: "home"},
+	{Text: "🔙 back", CallbackData: "home"},
 }}
 
 var mainButtons = [][]gotgbot.InlineKeyboardButton{
 	{
-		{Text: "✨ Bot Status and More Bots ✨", Url: "https://t.me/StarkBots/7"},
-	},
-	{
 		{Text: "How to Use ❔", CallbackData: "help"},
-		{Text: "🎪 About 🎪", CallbackData: "about"},
 	},
 	{
-		{Text: "♥ More Amazing bots ♥", Url: "https://t.me/StarkBots"},
+		{Text: "About 🤖", CallbackData: "about"},
+		{Text: "📨 Support", url: "https://t.me/AwesomeSupport"},
+	},
+	{
+		{Text: "♥ More Amazing bots ♥", Url: "https://t.me/LaylaBots"},
 	},
 }
 
