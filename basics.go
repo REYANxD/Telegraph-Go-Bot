@@ -122,7 +122,7 @@ A telegraph bot by @VasuXD
 
 <b>Source Code</b> - <a href="https://github.com/VasuXD/Telegraph-Go-Bot">GitHub Repository</a>
 
-<b> Special Thanks & Credit ©
+<b>Special Thanks</b>
 
 <b>Telegraph Library</b> - <a href="https://github.com/StarkBotsIndustries/telegraph">go telegraph</a>
 <b>Telegram Library</b> - <a href="https://github.com/PaulSonOfLars/gotgbot">gotgbot</a>
