@@ -1,4 +1,4 @@
-## [Telegraph Go Bot](https://t.me/StarkTelegraphBot)
+## [Go Telegraph Bot](https://t.me/GoTelegraphBot)
 
 > A star ⭐ from you means a lot to me !
 
@@ -16,7 +16,7 @@ A detailed usage guide can be found here : [Telegraph Page](https://telegra.ph/T
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku_deployer.herokuapp.com)
 
 1. Tap on above button and fill `TOKEN`.
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -28,7 +28,7 @@ A detailed usage guide can be found here : [Telegraph Page](https://telegra.ph/T
 1. Clone the repo
 
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/Telegraph-Go-Bot
+   git clone https://github.com/VasuXD/Telegraph-Go-Bot
    ```
 
 2. Rename `.env.sample` to `.env` and fill values
@@ -59,22 +59,20 @@ A detailed usage guide can be found here : [Telegraph Page](https://telegra.ph/T
 - `MUST_JOIN` - Telegram Chat where users must join to use the bot. Must be a Chat ID of format `-10012345678`.
 
 ## Credits
-
+- [Me](https://github.com/VasuXD) for nothing 😁
 - [Paul Larsen](https://github.com/PaulSonOfLars) for his [gotgbot](https://github.com/PaulSonOfLars/gotgbot) Library
-- [I wanna thank me](https://www.google.com/search?q=i+wanna+thank+me), for my [Telegraph Library](https://github.com/StarkBotsIndustries/telegraph)
+- [StarkBots](https://www.google.com/search?q=i+wanna+thank+me), for their [Telegraph Library](https://github.com/StarkBotsIndustries/telegraph) & [Telegraph Go Bot](https://github.com/StarkBotsIndustries/Telegraph-Go-Bot)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
-
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
+Telegram :- [@VasuXD](https://t.me/VasuXD)
 
 ## :)
 
 [![ForTheBadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://go.dev/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/StarkBotsIndustries)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/VasuXD)
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/StarkBotsIndustries)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/VasuXD)
