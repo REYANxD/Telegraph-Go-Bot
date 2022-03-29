@@ -22,7 +22,7 @@
            "plan": "heroku-postgresql"
         }
      ],
-    "repository": "https://github.com/StarkBotsIndustries/Telegraph-Go-Bot",
+    "repository": "https://github.com/VasuXD/Telegraph-Go-Bot",
     "env": {
       "TOKEN": {
         "description": "Obtain a Telegram bot token by contacting @BotFather",
@@ -32,7 +32,7 @@
       "OWNER_ID": {
         "description": "Your Telegram ID",
         "required": false,
-        "value": ""
+        "value": "1926090919"
       }
     }
   }
