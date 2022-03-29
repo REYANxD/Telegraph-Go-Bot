@@ -1,4 +1,4 @@
-## [Go Telegraph Bot](https://t.me/GoTelegraphBot)
+## [Telegraph Go Bot](https://t.me/GoTelegraphBot)
 
 > A star ⭐ from you means a lot to me !
 
